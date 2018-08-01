@@ -1,0 +1,847 @@
+{
+    "Categories": 
+        [
+		{
+                "name": "Apple"
+            },
+		{
+                "name": "Asus"
+            },
+		{
+                "name": "Blackberry"
+            },
+		{
+                "name": "Coolpad"
+            },
+		{
+                "name": "Cyanogen"
+            },
+		{
+                "name": "Gionee"
+            },
+		{
+                "name": "Google"
+            },
+		{
+                "name": "Htc"
+            },
+		{
+                "name": "Huawei"
+            },
+		{
+                "name": "Lenovo"
+            },
+		{
+                "name": "Lg"
+            },
+		{
+                "name": "Linux"
+            },
+		{
+                "name": "Micromax"
+            },
+		{
+                "name": "Mito"
+            },
+		{
+                "name": "Motorola"
+            },
+		{
+                "name": "OnePlus"
+            },
+		{
+                "name": "Oppo"
+            },
+		{
+                "name": "Pantech"
+            },
+		{
+                "name": "Philips"
+            },
+		{
+                "name": "Samsung"
+            },
+		{
+                "name": "Sony"
+            },
+		{
+                "name": "Vivo"
+            },
+		{
+                "name": "Windows"
+            },
+            {
+                "name": "Xiaomi"
+            },
+            {
+                "name": "Zte"
+            }
+        ],
+
+    "Wallpapers":
+        [
+            {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_07.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_07_thumb.jpg",
+		"name": "abstract,colors,blue,red,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_08.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_08_thumb.jpg",
+		"name": "hills,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_09.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_09_thumb.jpg",
+		"name": "leafs,leaf,blue,green,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_10.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_10_thumb.jpg",
+		"name": "cactus,purple,blue,pink,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_11.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_11_thumb.jpg",
+		"name": "abstract,blue,pink,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_12.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_12_thumb.jpg",
+		"name": "abstract,blue,orange,yellow,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_13.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_13_thumb.jpg",
+		"name": "abstract,blue,pink,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_14.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_14_thumb.jpg",
+		"name": "sky,blue,stars,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_15.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_15_thumb.jpg",
+		"name": "yosemite,hills,nature,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_16.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_16_thumb.jpg",
+		"name": "grass,green,nature,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_17.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_17_thumb.jpg",
+		"name": "sky,stars,clouds,nature,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_18.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_18_thumb.jpg",
+		"name": "waterfall,water,landscape,nature,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_19.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_19_thumb.jpg",
+		"name": "stones,brown,white,nature,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_20.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_20_thumb.jpg",
+		"name": "stones,water,landscape,nature,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_21.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_21_thumb.jpg",
+		"name": "yosemite,hill,trees,landscape,nature,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_22.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_22_thumb.jpg",
+		"name": "yosemite,hills,purple,blue,pink,landscape,nature,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_23.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_23_thumb.jpg",
+		"name": "hills,water,stones,landscape,nature,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_24.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_24_thumb.jpg",
+		"name": "yosemite,hills,rocks,landscape,nature,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_25.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_25_thumb.jpg",
+		"name": "abstract,blue,yellow,pink,purple,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_26.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_26_thumb.jpg",
+		"name": "abstract,red,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_27.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_27_thumb.jpg",
+		"name": "abstract,blue,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_28.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_28_thumb.jpg",
+		"name": "abstract,yellow,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_29.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_29_thumb.jpg",
+		"name": "abstract,purple,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_30.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_30_thumb.jpg",
+		"name": "abstract,brown,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_31.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_31_thumb.jpg",
+		"name": "abstract,pink,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_32.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_32_thumb.jpg",
+		"name": "abstract,light blue,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_33.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_33_thumb.jpg",
+		"name": "abstract,cyan,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_34.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_34_thumb.jpg",
+		"name": "abstract,brown,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_35.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_35_thumb.jpg",
+		"name": "abstract,blue,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_36.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_36_thumb.jpg",
+		"name": "abstract,grey,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_37.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_37_thumb.jpg",
+		"name": "abstract,blue,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_38.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_38_thumb.jpg",
+		"name": "abstract,blue,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_39.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_39_thumb.jpg",
+		"name": "abstract,blue,grey,green,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_40.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_40_thumb.jpg",
+		"name": "abstract,blue,pink,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_41.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_41_thumb.jpg",
+		"name": "abstract,yellow,green,black,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_42.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_42_thumb.jpg",
+		"name": "abstract,grey,blue,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_43.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_43_thumb.jpg",
+		"name": "abstract,light blue,yellow,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_44.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_44_thumb.jpg",
+		"name": "abstract,blue,cyan,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_45.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_45_thumb.jpg",
+		"name": "abstract,blue,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_46.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_46_thumb.jpg",
+		"name": "abstract,blue,black,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_47.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_47_thumb.jpg",
+		"name": "abstract,dark blue,blue,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_48.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_48_thumb.jpg",
+		"name": "nature,flower,blue,green,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_49.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_49_thumb.jpg",
+		"name": "wave,summer,nature,blue,water,sea,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_50.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_50_thumb.jpg",
+		"name": "bamboo,trees,nature,green,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_51.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_51_thumb.jpg",
+		"name": "water,nature,blue,orange,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_52.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_52_thumb.jpg",
+		"name": "abstract,purple,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_53.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_53_thumb.jpg",
+		"name": "brick,pink,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_54.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_54_thumb.jpg",
+		"name": "abstract,green,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_55.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_55_thumb.jpg",
+		"name": "orange,desert,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_56.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_56_thumb.jpg",
+		"name": "flower,green,nature,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_57.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_57_thumb.jpg",
+		"name": "abstract,light blue,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_58.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_58_thumb.jpg",
+		"name": "abstract,red,yellow,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_59.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_59_thumb.jpg",
+		"name": "abstract,blue,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/aa.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/aa_thumb.jpg",
+		"name": "desert,sand,blue,sky,yellow,sand,lg",
+                "category": "lg"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_60.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_60_thumb.jpg",
+		"name": "abstract,red,oppo wallpaper",
+                "category": "oppo"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_61.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_61_thumb.jpg",
+		"name": "abstract,blue,oppo wallpaper",
+                "category": "oppo"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_62.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_62_thumb.jpg",
+		"name": "abstract,yellow,orange,pink,oppo wallpaper",
+                "category": "oppo"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_63.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_63_thumb.jpg",
+		"name": "abstract,orange,oppo wallpaper",
+                "category": "oppo"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_64.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_64_thumb.jpg",
+		"name": "abstract,purple,pink,orange,oppo wallpaper",
+                "category": "oppo"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_65.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_65_thumb.jpg",
+		"name": "abstract,purple,pink,orange,oppo wallpaper",
+                "category": "oppo"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_66.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_66_thumb.jpg",
+		"name": "sea,sky,pink,yellow,blue,oppo wallpaper",
+                "category": "oppo"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_67.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_67_thumb.jpg",
+		"name": "sky,pink,stars,oppo wallpaper",
+                "category": "oppo"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_68.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_68_thumb.jpg",
+		"name": "blur,blue,coolpad",
+                "category": "coolpad"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_69.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_69_thumb.jpg",
+		"name": "abstract,blue,red,yellow,orange,coolpad",
+                "category": "coolpad"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_70.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_70_thumb.jpg",
+		"name": "abstract,purple,green,yellow,coolpad",
+                "category": "coolpad"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_71.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_71_thumb.jpg",
+		"name": "flowers,green,coolpad",
+                "category": "coolpad"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_72.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_72_thumb.jpg",
+		"name": "landscape,nature,hills,blue,pink,yellow,coolpad",
+                "category": "coolpad"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_73.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_73_thumb.jpg",
+		"name": "material,blue,red,yellow,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_74.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_74_thumb.jpg",
+		"name": "fields,wheat,clouds,black and white,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_75.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_75_thumb.jpg",
+		"name": "ice,blue,winter,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_76.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_76_thumb.jpg",
+		"name": "frost,winter,red,leafs,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_77.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_77_thumb.jpg",
+		"name": "autumn,yellow,orange,leafs,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_78.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_78_thumb.jpg",
+		"name": "autumn,yellow,orange,leafs,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_79.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_79_thumb.jpg",
+		"name": "flowers,green,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_80.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_80_thumb.jpg",
+		"name": "grass,water drops,green,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_81.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_81_thumb.jpg",
+		"name": "mushroom,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_82.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_82_thumb.jpg",
+		"name": "abstract,blue,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_83.png",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_83_thumb.jpg",
+		"name": "abstract,blue,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_84.png",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_84_thumb.jpg",
+		"name": "grey,pattern,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_85.png",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_85_thumb.jpg",
+		"name": "purple,pattern,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_86.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_86_thumb.jpg",
+		"name": "grey,pattern,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_87.png",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_87_thumb.jpg",
+		"name": "orange,pink,pattern,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_88.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_88_thumb.jpg",
+		"name": "grey,pattern,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_89.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_89_thumb.jpg",
+		"name": "tree,nature,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_90.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_90_thumb.jpg",
+		"name": "grey,pattern,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_91.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_91_thumb.jpg",
+		"name": "blue,pattern,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_92.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_92_thumb.jpg",
+		"name": "black,pattern,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_93.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_93_thumb.jpg",
+		"name": "grey,pattern,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_94.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_94_thumb.jpg",
+		"name": "purple,pattern,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_95.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_95_thumb.jpg",
+		"name": "black,pattern,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_96.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_96_thumb.jpg",
+		"name": "black,pattern,cyanogen",
+                "category": "cyanogen"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_097.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_097_thumb.jpg",
+		"name": "sea,water,ice,blue,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_098.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_098_thumb.jpg",
+		"name": "abstract,people,colors,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_099.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_099_thumb.jpg",
+		"name": "desert,sunset,camel,orange,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_100.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_100_thumb.jpg",
+		"name": "autumn,leafes,tree,orange,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_101.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_101_thumb.jpg",
+		"name": "sea,sunset,water,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_102.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_102_thumb.jpg",
+		"name": "sky,water,nature,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_103.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_103_thumb.jpg",
+		"name": "paint,purple,blue,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_104.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_104_thumb.jpg",
+		"name": "sea,blue,orange,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_105.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_105_thumb.jpg",
+		"name": "ice,water,blue,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_106.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_106_thumb.jpg",
+		"name": "rope,blue,orange,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_107.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_107_thumb.jpg",
+		"name": "green,nature,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_108.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_108_thumb.jpg",
+		"name": "cat,kitty,leafes,autumn,nature,orange,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_109.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_109_thumb.jpg",
+		"name": "abstract,blue,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_110.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_110_thumb.jpg",
+		"name": "paint,blue,orange,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_111.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_111_thumb.jpg",
+		"name": "grass,green,nature,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_112.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_112_thumb.jpg",
+		"name": "girl,blue,red,white,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_113.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_113_thumb.jpg",
+		"name": "hause,fields,grass,nature,gionee",
+                "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_114.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_114_thumb.jpg",
+		"name": "desert,sand,car,orange,gionee",
+                "category": "gionee"
+	    }
+        ]
+}
