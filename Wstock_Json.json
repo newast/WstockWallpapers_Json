@@ -975,6 +975,41 @@
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_133_thumb.jpg",
 		"name": "rocks,nature,night,sky,stars,blue,water,htc",
                 "category": "htc"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_134.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_134_thumb.jpg",
+		"name": "cave,nature,colors,purple,pink,orange,yellow,huawei",
+                "category": "huawei"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_135.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_135_thumb.jpg",
+		"name": "night,moon,sand,blue,purple,huawei",
+                "category": "huawei"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_136.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_136_thumb.jpg",
+		"name": "water drops,nature,blue,huawei",
+                "category": "huawei"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_137.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_137_thumb.jpg",
+		"name": "water,nature,sunset,blue,orange,rocks,huawei",
+                "category": "huawei"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_138.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_138_thumb.jpg",
+		"name": "abstract,colorsblue,pink,yellow,huawei",
+                "category": "huawei"
 	    }
         ]
 }
