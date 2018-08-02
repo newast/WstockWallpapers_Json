@@ -1101,6 +1101,13 @@
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_151_thumb.jpg",
 		"name": "abstract,colors,purple,blue,pink,lenovo,vibex2 pro",
                 "category": "lenovo"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_152.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_152_thumb.jpg",
+		"name": "flower,nature,green,linux",
+                "category": "linux"
 	    }
         ]
 }
