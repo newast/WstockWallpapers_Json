@@ -742,7 +742,7 @@
 	    "author": "Wstock Wallpapers",
 		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_100.jpg",
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_100_thumb.jpg",
-		"name": "autumn,leafes,tree,orange,gionee",
+		"name": "autumn,leaves,tree,orange,gionee",
                 "category": "gionee"
 	    },
 		{
@@ -798,7 +798,7 @@
 	    "author": "Wstock Wallpapers",
 		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_108.jpg",
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_108_thumb.jpg",
-		"name": "cat,kitty,leafes,autumn,nature,orange,gionee",
+		"name": "cat,kitty,leaves,autumn,nature,orange,animal,gionee",
                 "category": "gionee"
 	    },
 		{
@@ -842,6 +842,69 @@
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_114_thumb.jpg",
 		"name": "desert,sand,car,orange,gionee",
                 "category": "gionee"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_115.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_115_thumb.jpg",
+		"name": "grass,green,nature,leaves,google",
+                "category": "google"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_116.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_116_thumb.jpg",
+		"name": "fields,green,nature,landscape,google",
+                "category": "google"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_117.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_117_thumb.jpg",
+		"name": "bridge,sunset,nature,water,google",
+                "category": "google"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_118.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_118_thumb.jpg",
+		"name": "nature,green,leaves,butterfly,google",
+                "category": "google"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_119.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_119_thumb.jpg",
+		"name": "fox,green,nature,animal,google",
+                "category": "google"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_120.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_120_thumb.jpg",
+		"name": "elephant,green,nature,animal,google",
+                "category": "google"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_121.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_121_thumb.jpg",
+		"name": "owl,fly,nature,animal,google",
+                "category": "google"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_122.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_122_thumb.jpg",
+		"name": "bird,tree,nature,animal,google",
+                "category": "google"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_123.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_123_thumb.jpg",
+		"name": "lizard,sand,nature,animal,google",
+                "category": "google"
 	    }
         ]
 }
