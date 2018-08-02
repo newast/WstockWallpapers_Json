@@ -1105,6 +1105,48 @@
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_152_thumb.jpg",
 		"name": "flower,nature,green,linux",
                 "category": "linux"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_153.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_153_thumb.jpg",
+		"name": "mauntains,night,sky,blue,black,nature,mito",
+                "category": "mito"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_154.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_154_thumb.jpg",
+		"name": "sky,blue,pink,blue,mito",
+                "category": "mito"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_155.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_155_thumb.jpg",
+		"name": "boat,water,sea,nature,mito",
+                "category": "mito"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_156.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_156_thumb.jpg",
+		"name": "leaves,nature,green,mito",
+                "category": "mito"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_157.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_157_thumb.jpg",
+		"name": "windmills,mito",
+                "category": "mito"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_158.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_158_thumb.jpg",
+		"name": "wheat,field,mito",
+                "category": "mito"
 	    }
         ]
 }
