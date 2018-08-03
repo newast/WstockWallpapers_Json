@@ -1697,15 +1697,50 @@
 	    "author": "Wstock Wallpapers",
 		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_239.jpg",
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_239_thumb.jpg",
-		"name": "flower nature,pink,huawei",
+		"name": "flower,nature,pink,huawei",
                 "category": "huawei"
 	    },
 		{
 	    "author": "Wstock Wallpapers",
 		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_240.jpg",
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_240_thumb.jpg",
-		"name": "flower nature,blue,huawei",
+		"name": "flower,nature,blue,huawei",
                 "category": "huawei"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_241.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_241_thumb.jpg",
+		"name": "lavender,fields,nature,landscape,purple,lg",
+                "category": "lg"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_242.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_242_thumb.jpg",
+		"name": "mauntain,hills,snow,nature,landscape,lg",
+                "category": "lg"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_243.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_243_thumb.jpg",
+		"name": "mauntain,hills,snow,nature,landscape,lg",
+                "category": "lg"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_244.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_244_thumb.jpg",
+		"name": "abstract,lg",
+                "category": "lg"
+	    },
+		{
+	    "author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_245.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_245_thumb.jpg",
+		"name": "desert,sand,lg",
+                "category": "lg"
 	    }
         ]
 }
